@@ -10,7 +10,7 @@ app.use(morgan('combined'));
 
 app.get("/", (req,res) =>{
 
-    res.send('Weeraphat Test by Node.js phat ');
+    res.send('Weeraphat Test by Node.js phatlom ');
 
 })
 
